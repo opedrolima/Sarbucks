@@ -1,0 +1,32 @@
+body{
+    background-color: whitesmoke;
+}
+#bemvindo{
+    color: blueviolet;
+    font-size: 42px;   
+    text-align: left;
+    position: relative;
+    padding: 0%;
+  
+    
+}
+#barra{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#cabeçalho{
+    position: relative;
+    padding: right ;
+    align-items: 0%;
+
+}
+
+
+
+
+#mensagem{
+    color: blueviolet;
+    font-size: 20px;
+} 
